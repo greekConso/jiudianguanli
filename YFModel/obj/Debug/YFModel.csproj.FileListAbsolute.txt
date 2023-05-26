@@ -1,0 +1,12 @@
+D:\新建文件夹\114514\114514\YFModel\bin\Debug\YFModel.dll
+D:\新建文件夹\114514\114514\YFModel\bin\Debug\YFModel.pdb
+D:\新建文件夹\114514\114514\YFModel\obj\Debug\YFModel.csprojAssemblyReference.cache
+D:\新建文件夹\114514\114514\YFModel\obj\Debug\YFModel.csproj.CoreCompileInputs.cache
+D:\新建文件夹\114514\114514\YFModel\obj\Debug\YFModel.dll
+D:\新建文件夹\114514\114514\YFModel\obj\Debug\YFModel.pdb
+D:\课设项目\课设项目\YFModel\bin\Debug\YFModel.dll
+D:\课设项目\课设项目\YFModel\bin\Debug\YFModel.pdb
+D:\课设项目\课设项目\YFModel\obj\Debug\YFModel.csprojAssemblyReference.cache
+D:\课设项目\课设项目\YFModel\obj\Debug\YFModel.csproj.CoreCompileInputs.cache
+D:\课设项目\课设项目\YFModel\obj\Debug\YFModel.dll
+D:\课设项目\课设项目\YFModel\obj\Debug\YFModel.pdb

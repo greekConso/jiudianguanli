@@ -1,0 +1,12 @@
+D:\新建文件夹\114514\114514\YFUTILITY\bin\Debug\YFUTILITY.dll
+D:\新建文件夹\114514\114514\YFUTILITY\bin\Debug\YFUTILITY.pdb
+D:\新建文件夹\114514\114514\YFUTILITY\obj\Debug\YFUTILITY.csprojAssemblyReference.cache
+D:\新建文件夹\114514\114514\YFUTILITY\obj\Debug\YFUTILITY.csproj.CoreCompileInputs.cache
+D:\新建文件夹\114514\114514\YFUTILITY\obj\Debug\YFUTILITY.dll
+D:\新建文件夹\114514\114514\YFUTILITY\obj\Debug\YFUTILITY.pdb
+D:\课设项目\课设项目\YFUTILITY\bin\Debug\YFUTILITY.dll
+D:\课设项目\课设项目\YFUTILITY\bin\Debug\YFUTILITY.pdb
+D:\课设项目\课设项目\YFUTILITY\obj\Debug\YFUTILITY.csprojAssemblyReference.cache
+D:\课设项目\课设项目\YFUTILITY\obj\Debug\YFUTILITY.csproj.CoreCompileInputs.cache
+D:\课设项目\课设项目\YFUTILITY\obj\Debug\YFUTILITY.dll
+D:\课设项目\课设项目\YFUTILITY\obj\Debug\YFUTILITY.pdb
